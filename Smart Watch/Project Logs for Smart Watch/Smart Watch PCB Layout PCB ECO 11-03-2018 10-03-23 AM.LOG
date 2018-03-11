@@ -1,0 +1,5 @@
+Added Component: Designator=BAT(Keystone 3002 CR2032 Battery Holder)
+Added Pin To Net: NetName=VBAT Pin=BAT-1
+Added Pin To Net: NetName=VBAT Pin=BAT-1
+Added Pin To Net: NetName=GND Pin=BAT-2
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component BAT CR2032 3.7V LiPo

@@ -1,0 +1,39 @@
+Added Component: Designator=C5(_0603)
+Added Component: Designator=C6(_0603)
+Added Component: Designator=R8(_0402)
+Added Component: Designator=R9(_0402)
+Added Component: Designator=U4(SOT23-5)
+Added Component: Designator=USB1(USB Micro B Connector)
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=USB1-GND
+Added Pin To Net: NetName=5V Pin=C6-2
+Added Pin To Net: NetName=5V Pin=R8-2
+Added Pin To Net: NetName=5V Pin=U4-4
+Added Pin To Net: NetName=5V Pin=USB1-VBUS
+Added Net: Name=5V
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U4-1
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U4-5
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=VBAT Pin=C5-2
+Added Pin To Net: NetName=VBAT Pin=U4-3
+Added Net: Name=VBAT
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component C3 0.1uF
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component C4 0.1uF
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component C5 0.1uF
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component C6 0.1uF
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component R2 10K
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component R3 10K
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component R4 10K
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component R5 10K
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component R6 10K
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component R7 1K
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component R8 10K
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component R9 2K
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component U4 MCP73831
+Added Member To Class: ClassName=Smart Watch Schematic Member=Component USB1 USB Micro B Connector
